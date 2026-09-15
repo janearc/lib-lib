@@ -60,3 +60,26 @@ accordingly, i have collected a few things here which may be of use.
   (text, mainly, but als shapes) in a way that is *legible* first.
 
   - https://github.com/janearc/libreadme
+
+# some more stuff
+
+i think we're getting to a point where a lot of the things that i write are
+variations on a theme, if you will. it's kind of shaping into a bit of a suite
+and i'll be adding those here. we seem to live in a world where a person can
+write and release not just software, but an entire constellation of software.
+
+- `game` is a build system, for go. i know a lot of programming languages,
+  and i just keep coming back to go. it's not that i don't like rust, because
+  i do. or typescript or perl. but go is where i'm at. the software business
+  today is pretty unusual and we can all produce more software of more
+  different domains than i think many of us have been able to before. and i 
+  needed something else: i write software with agents, and i need extra lint
+  controls that i've never needed. and then i found that my normal build tools
+  were not up to the job. so i built one. `make` is in fact older than i am.
+  it predates go, and agents, and nobody who was around when it was written
+  would understand that it's completely normal for me to have sixty different
+  vims open. even two years ago, if someone had told me they were going to
+  make their own build tool, i would have not had a high opinion of this. and
+  today, i built one.
+
+  - https://github.com/janearc/game
